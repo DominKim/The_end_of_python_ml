@@ -10,11 +10,8 @@
 2. Classification
 > ** Classification **
 >> [Evaluatino(평가)](https://github.com/DominKim/The_end_of_python_ml/blob/main/2.Evaluation/Evaluation.ipynb)
->
 >> [Classification](https://github.com/DominKim/The_end_of_python_ml/blob/main/3.Classification/Classification.ipynb)
->
 >> [Ensemble](https://github.com/DominKim/The_end_of_python_ml/blob/main/3.Classification/Ensemble.ipynb)
->
 >> [stacking_mode](https://github.com/DominKim/The_end_of_python_ml/blob/main/3.Classification/stacking_model.ipynb)
 >
 3. Regression
