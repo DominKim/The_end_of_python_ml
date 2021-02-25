@@ -16,6 +16,10 @@
 >
 3. Regression
 > ** Regression **
+> - 회귀에서 선형 회귀 / 비선형 회귀를 나누는 기준은 회귀 계수가 선형 / 비선형인지에 따른 것이지 독립변수의 선형 / 비선형 여부와는 무관
+>  - 편향 - 분산 트레이드오프(Bias-Variance Trade off)
+  >  - 고편향성 : 지나치게 한 방향성으로 치우진 것
+  >  - 고분산 : 지나치게 높은 변동성을 가진 것
 >> [Regression](https://github.com/DominKim/The_end_of_python_ml/blob/main/4.Regression/Linear_Regression.ipynb)
 >
 4. Dimension_Reduction
