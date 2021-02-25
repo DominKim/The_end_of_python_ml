@@ -30,3 +30,5 @@
 > ** Dimension_Reduction **
 >> [PCA](https://github.com/DominKim/The_end_of_python_ml/blob/main/5_Dimension_Reduction/PCA.ipynb)
 >
+> - PCA : 입력 데이터의 변동성이 가장 큰 축을 구하고, 다시 이 축에 직각인 축을 반복적을 축소하려는 차원 개수만큼 구한 뒤 입력 데이터를 이 축들에 투영해 차원을 축소하는 방식
+> - LDA : 입력 데이터의 결정 값 클래스를 최대한을 분리할 수 있는 축을 찾음
