@@ -11,6 +11,8 @@
 >
 2. Classification
 > ** Classification **
+> - Logit Transform : odd를 구하고, log를 취한 것
+> - LogisticRegression B1(가중치) 해석 : x가 한단위 증가 했을 때 log(odds)의 증가량
 >> [Evaluatino(평가)](https://github.com/DominKim/The_end_of_python_ml/blob/main/2.Evaluation/Evaluation.ipynb)
 >> [Classification](https://github.com/DominKim/The_end_of_python_ml/blob/main/3.Classification/Classification.ipynb)
 >> [Ensemble](https://github.com/DominKim/The_end_of_python_ml/blob/main/3.Classification/Ensemble.ipynb)
