@@ -2,6 +2,7 @@
 ~~~python3
 "마지막_머신러닝_정리"
 ~~~
+https://scikit-learn.org/stable/_static/ml_map.png
 1. Pandas/ Numpy
 > ** Data Handling **
 >> [Numpy](https://github.com/DominKim/The_end_of_python_ml/blob/main/1.numpy_pandas/numpy_for_machine_learning.ipynb)
