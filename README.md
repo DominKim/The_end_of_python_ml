@@ -36,5 +36,5 @@
 > ** df 안 list 형식 데이터(str) list로 바꾸기 **
 > ``` python3
 > import ast
-> astr.literal_eval(list)
+> ast.literal_eval(list)
 > ```
